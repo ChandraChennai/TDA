@@ -1,4 +1,4 @@
-# Code for TDA 
+# TDA 
 Many codes for creating persistence diagrams and images were taken from the paper by Krishnapriyan et. al. (J. Phys. Chem. C 2020, 124, 17, 9360–9368).
 
 Data used for the code is given in Data.txt file.
