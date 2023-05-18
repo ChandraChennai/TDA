@@ -1,5 +1,5 @@
 # TDA 
-Many codes for creating persistence diagrams and images were taken from the paper by Krishnapriyan et. al. (J. Phys. Chem. C 2020, 124, 17, 9360–9368).
+For generating the persistence diagrams as well as the persistence images we followed the approach of this paper: J. Phys. Chem. C 2020, 124, 17, 9360–9368.
 
 Data used for the code is given in Data.txt file.
 
