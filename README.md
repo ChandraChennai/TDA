@@ -1,7 +1,7 @@
 # TDA 
 For generating the persistence diagrams as well as the persistence images we followed the approach of this paper: J. Phys. Chem. C 2020, 124, 17, 9360–9368.
 
-Data used for the code is given in Data.txt file.
+Data used for the code is given in Data_TPS_PS.txt file. First seven columns are the values of seven feature vectors. Last two columns are the values of H2 deliverable capacities at TPS and PS conditions, respectively.
 
 To create the persistence images run the code: 
 python TDA.py path-for-cif-folder
