@@ -7,7 +7,7 @@ from torch.nn.functional import normalize
 from torchvision import transforms
 
 
-path = "Data.txt"
+path = "Data_TPS_PS.txt"
 pathImg = "Final_3"
 with open(path, "r") as f:
     a = f.readlines()
